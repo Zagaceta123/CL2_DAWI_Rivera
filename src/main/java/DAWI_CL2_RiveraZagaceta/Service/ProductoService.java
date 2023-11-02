@@ -1,5 +1,7 @@
-package DAWI_CL2_RiveraZagaceta.CL2_DAWI;
+package DAWI_CL2_RiveraZagaceta.Service;
 
+import DAWI_CL2_RiveraZagaceta.CL2_DAWI.Model.Producto;
+import DAWI_CL2_RiveraZagaceta.CL2_DAWI.Repository.ProductoRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 

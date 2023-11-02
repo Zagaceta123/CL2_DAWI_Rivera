@@ -1,4 +1,4 @@
-package DAWI_CL2_RiveraZagaceta.CL2_DAWI;
+package DAWI_CL2_RiveraZagaceta.CL2_DAWI.Model;
 
 import jakarta.persistence.*;
 import lombok.Data;

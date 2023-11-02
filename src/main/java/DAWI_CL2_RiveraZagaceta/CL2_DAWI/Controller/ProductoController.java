@@ -1,5 +1,6 @@
-package DAWI_CL2_RiveraZagaceta.CL2_DAWI;
+package DAWI_CL2_RiveraZagaceta.CL2_DAWI.Controller;
 
+import DAWI_CL2_RiveraZagaceta.Service.ProductoService;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
